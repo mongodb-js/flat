@@ -1,6 +1,6 @@
 {
-  "name": "flat",
-  "version": "5.0.2",
+  "name": "@mongodb-js/flat",
+  "version": "5.0.3",
   "main": "index.js",
   "bin": "cli.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/hughsk/flat.git"
+    "url": "git://github.com/mongodb-js/flat.git"
   },
   "keywords": [
     "flat",
@@ -31,7 +31,7 @@
   ],
   "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com)",
   "bugs": {
-    "url": "https://github.com/hughsk/flat/issues"
+    "url": "https://github.com/mongodb-js/flat/issues"
   },
-  "homepage": "https://github.com/hughsk/flat"
+  "homepage": "https://github.com/mongodb-js/flat"
 }

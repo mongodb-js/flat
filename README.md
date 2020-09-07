@@ -1,4 +1,7 @@
-# flat [![Build Status](https://secure.travis-ci.org/hughsk/flat.png?branch=master)](http://travis-ci.org/hughsk/flat)
+# flat [![Build Status](https://travis-ci.org/mongodb-js/flat.svg?branch=master)](https://travis-ci.com/github/mongodb-js/flat)
+
+Original `flat` package: (https://github.com/hughsk/flat)[https://github.com/hughsk/flat]
+Forked to pull in changes in https://github.com/cipacda/flat (ignoreValue)
 
 Take a nested Javascript object and flatten it, or unflatten an object with
 delimited keys.
